@@ -1,7 +1,7 @@
 # Analytics Vidhya Janta Hack Demand Forecasting
 
 
-![analyticsdemand](https://user-images.githubusercontent.com/56091634/87282865-4ff8a580-c512-11ea-8af5-bade6db4e253.png)
+![demand1](https://user-images.githubusercontent.com/56091634/87299336-7118c080-c529-11ea-9540-1ee0a6da7b3b.png)
 
 
 One of the largest retail chains in the world wants to use their vast data source to build an efficient forecasting model to predict the sales for each SKU in its portfolio at its 76 different stores using historical sales data for the past 3 years on a week-on-week basis. Sales and promotional information is also available for each week - product and store wise. 
@@ -28,7 +28,7 @@ units_sold - Target) Total Units sold for that week-store-sku combination.
 ## Evaluation Metric
 The evaluation metric for this competition is 100*RMSLE (Root Mean Squared Log Error).
 
-## Leaderboard Rank: 34
+## Leaderboard Rank: 34 / 13314
 
 ![demandrank](https://user-images.githubusercontent.com/56091634/87293888-93f2a700-c520-11ea-8c21-946ebb3aac91.png)
 
